@@ -1,6 +1,6 @@
 ﻿# Acordify - Identificador de Acordes y Escalas MIDI en Tiempo Real
 
-**Repositorio:** [https://github.com/BIMpraxis/ACORDIFY](https://github.com/BIMpraxis/ACORDIFY) *(Actualmente privado)*
+**Repositorio:** [https://github.com/BIMpraxis/ACORDIFY](https://github.com/BIMpraxis/ACORDIFY)
 
 Un script de Python (`acordify.py`) que escucha la entrada de un teclado MIDI conectado y muestra en tiempo real el nombre del acorde que se está tocando. Las futuras versiones incluirán identificación de escalas y una interfaz gráfica para visualización.
 
