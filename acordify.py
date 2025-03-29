@@ -1,4 +1,5 @@
-﻿# pip install mido
+﻿# Se deben instalar previamente (consola) estas cositas:
+# pip install mido
 # pip install python-rtmidi
 
 
